@@ -12,4 +12,6 @@ labs for "Software development for high-performance computer systems" course.
 ---
 5. OpenMP. Barriers, critical sections.
 ---
+6. Programming for computer systems with local memory. Ada language. Rendezvous.
+---
 **NOTE:** To learn more info about the projects see the pdf docs in each folder.
